@@ -61,6 +61,10 @@ Pretendo ampliar a especialização nas linguagens estudadas futuramente.
  
  </div>
   
+  <br>
+  
+<!--   GIF E AGRADECIMENTO   -->
+  
  <div align="center">
    
 ![EnterDevGIF](https://user-images.githubusercontent.com/116320545/209041561-c9203ab5-94c7-4728-bfc2-fdba1421706c.gif).
