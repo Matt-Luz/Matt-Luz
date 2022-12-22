@@ -21,7 +21,7 @@
 - ENTRE OUTRAS...
 
 Estudando para Full stack pretendendo seguir híbrido ao Front end e Back end, para maior desenvolvimento na futura carreira! <br>
-Pretendo também me especializar nas linguagens estudadas futuramente.
+Pretendo ampliar a especialização nas linguagens estudadas futuramente.
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target= "blanq">
