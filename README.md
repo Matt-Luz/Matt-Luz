@@ -13,7 +13,7 @@
 - TYPESCRIPT
 - NODEJS
 - GIT
-- SQL
+- POSTGRESQL
 
 #### Futuramente tenho a pretenção de estudar:
 
